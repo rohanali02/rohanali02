@@ -83,7 +83,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohanali02&show_icons=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohanali02&show_icons=true&theme=dark" align="center" /></div>  
 
 
 <br/>  
